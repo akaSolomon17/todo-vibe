@@ -1,0 +1,2 @@
+export { useConfetti } from "./useConfetti";
+
